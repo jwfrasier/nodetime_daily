@@ -1,0 +1,24 @@
+{
+  "name": "nodedates_daily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "colors.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwfrasier/nodetime_daily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwfrasier/nodetime_daily/issues"
+  },
+  "homepage": "https://github.com/jwfrasier/nodetime_daily#readme"
+}
